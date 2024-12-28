@@ -10,8 +10,7 @@
 
 {  
 
-* 👂 `My name is`: **_Der_Wold_**, _Der_Wold_
-* 😄 `Pronouns`: **He/Him**,
+* 😄 `Pronouns`: **He/Him**
 * 💻 `Favorite programming language`: **Java**  
 * 🔭 `I'm currently working on: BotShield`
 
